@@ -1,0 +1,13 @@
+.UserInput {
+   font-weight: bold;
+   color: blue;
+}
+.status {
+   font-size: 200%;
+   color: black;
+   font-weight: bolder;
+}
+
+.t-header {
+   column-width: 3in;
+}
